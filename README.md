@@ -1,6 +1,8 @@
-  <H1><center><B>HACTOBERFEST 2022</B> </center> </H1>
-  
   <img src ='https://github.com/Srishti44-g/HACTOBERFEST-2022/blob/main/Hactoberfest2022.png'>
+  
+  <H1><center><B>HACTOBERFEST 2022</B> </center> </H1>
+  Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt. 📢 Register Yourself for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.
+  
   <H2>REGISTRATION</h2>
   Register anytime between September 26 and October 31
   <h2>Registration Link :https://hacktoberfest.com/ </h2>
