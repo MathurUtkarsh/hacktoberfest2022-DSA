@@ -26,6 +26,14 @@ You have written some code in your branch, and are ready to commit. So, make sur
 ### 3. Lastly, submit your Pull Request
 Go through the checklist on the pull request template to guarantee your submission is valid. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
 
+
+
+Please check first and then send your codes with description.
+
+*All the best for the event *
+
+
+### Show some ❤ by starring the repository.
   
   
   
