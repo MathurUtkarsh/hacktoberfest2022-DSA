@@ -14,7 +14,3 @@
   
  # Contributors 😄
  ## HAPPY HACKING!!🥳
- 
- <a href="https://github.com/Srishti44-g/HACTOBERFEST-2022-For-all-Begineers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Srishti44-g/HACTOBERFEST-2022-For-all-Begineers" />
-</a>
