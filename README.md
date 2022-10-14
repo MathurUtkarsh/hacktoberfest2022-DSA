@@ -1,7 +1,7 @@
-# hacktoberfest2022-DSA<H1><center><B>HACTOBERFEST 2022</B> </center> </H1>
+  <H1><center><B>HACTOBERFEST 2022</B> </center> </H1>
   
   <img src ='https://github.com/Srishti44-g/HACTOBERFEST-2022/blob/main/Hactoberfest2022.png'>
- <H2>REGISTRATION</h2>
+  <H2>REGISTRATION</h2>
   Register anytime between September 26 and October 31
   <h2>Registration Link :https://hacktoberfest.com/ </h2>
   
